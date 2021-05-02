@@ -21,7 +21,7 @@
     "email": "leiyswork@163.com"
   },
   "dependencies": {
-    "jsoneditor": "https://github.com/dallverk/jsoneditor.git"
+    "jsoneditor": "^9.4.1"
   },
   "browserslist": [
     "> 1%",
